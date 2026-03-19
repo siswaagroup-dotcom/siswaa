@@ -176,18 +176,18 @@ export default function Navbar(){
           }}
         >
 
-          <a
-            href="#home"
-            style={{
-              fontFamily:"Georgia",
-              fontWeight:"bold",
-              letterSpacing:".2em",
-              textDecoration:"none",
-              color:textColor
-            }}
-          >
-            SA<span style={{color:"#fbbf24"}}>•</span>SA
-          </a>
+        <a
+  href="#home"
+  style={{
+    fontFamily:"Georgia",
+    fontWeight:"bold",
+    letterSpacing:".2em",
+    textDecoration:"none",
+    color:textColor
+  }}
+>
+  SIS<span style={{color:"#fbbf24"}}>WAA</span>
+</a>
 
           {!isMobile && (
             <div style={{display:"flex",gap:40}}>

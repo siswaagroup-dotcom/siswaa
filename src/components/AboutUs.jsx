@@ -203,7 +203,7 @@ export default function AboutUs() {
 
           <br/><br/>
 
-          SASA Ventures was founded by <b>Atul Singh Bhadouria</b> and
+          SISWAA Fashion was founded by <b>Atul Singh Bhadouria</b> and
           <b> Abhishek Sharma</b>, with the vision of building a brand
           that reflects confidence, simplicity and everyday fashion.
 
